@@ -4,7 +4,7 @@
         <description><![CDATA[Atlas to Earth]]></description>
         <link>https://thegrid.ai/atlastoearth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:05:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlastoearth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/atlastoearth/music-coming-soon/index.html</link>
             <guid isPermaLink="false">08b2bbd2-f42e-4460-b5b9-e71409edc64a</guid>
             <pubDate>Tue, 10 May 2016 00:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Single Coming Soon</p>]]></description>
-            <link>https://thegrid.ai/atlastoearth/single-coming-soon/index.html</link>
-            <guid isPermaLink="false">5ed0195c-7199-4c70-8d10-5cdb0330ca96</guid>
-            <pubDate>Tue, 10 May 2016 00:23:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
