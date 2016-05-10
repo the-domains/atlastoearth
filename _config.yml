@@ -1,6 +1,6 @@
 name: Atlas to Earth
 favicon: null
-layout_spectrum: 0.4294121458660811
+layout_spectrum: 0.93322
 typography_spectrum: 0.059875840321183205
 title: Atlas to Earth
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2f2f2f'
+    - '#ffffff'
+    - '#4d4d4d'
+    - '#a2a2a2'
+    - '#cacaca'
   brandStrength: 0.625
   lightness: 0.5625
   saturation: 0.0625
