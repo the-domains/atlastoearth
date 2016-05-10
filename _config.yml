@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.0625
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5625
   brandColors:
     - '#2f2f2f'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Atlas to Earth
 favicon: null
+name: Atlas to Earth
 opengraph:
   image: null
   type: null
