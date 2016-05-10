@@ -1,0 +1,28 @@
+name: Atlas to Earth
+favicon: null
+layout_spectrum: 0.4294121458660811
+typography_spectrum: 0.059875840321183205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6731942880433053
+  lightness: 0.5826963949948549
+  saturation: 0.03863233816809952
+  rhythmicContrast: 0.4788220494519919
+purpose: []
