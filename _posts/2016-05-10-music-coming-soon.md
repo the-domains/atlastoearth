@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Music Coming Soon
-datePublished: '2016-05-10T00:47:10.926Z'
-dateModified: '2016-05-10T00:46:46.566Z'
+description: ''
+datePublished: '2016-05-11T23:17:47.884Z'
+dateModified: '2016-05-10T01:07:17.411Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-music-coming-soon.md
@@ -22,5 +22,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50edc961-20ab-49bb-9c03-72e6e8237961.jpg)
-
-Music Coming Soon
