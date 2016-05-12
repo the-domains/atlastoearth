@@ -1,5 +1,8 @@
+name: Atlas to Earth
+favicon: null
+layout_spectrum: 0.93322
+typography_spectrum: 0.77273
 title: Atlas to Earth
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.0625
-  brandStrength: 0
-  lightness: 0.5625
   brandColors:
     - '#2f2f2f'
     - '#ffffff'
     - '#4d4d4d'
     - '#a2a2a2'
     - '#cacaca'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.0625
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Atlas to Earth
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.77273
-layout_spectrum: 0.93322
+purpose: []
